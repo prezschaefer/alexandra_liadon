@@ -19,6 +19,6 @@ so you should download it to view it properly.
 
 ## Historical Accounts
 
-A series of [songs and poems](https://github.com/prezschaefer/alexandra_liadon/blob/master/docs/songs/README.md)
+A series of [songs and poems](songs/README.md)
 about Alexandra's journeys, told through her own eyes. Certain events may be embellished
 to enhance the entertainment value.

@@ -3,6 +3,13 @@
 Details about Alexandra Liadon's background.
 
 
+## Table of Contents
+
+1. [Tough History](#tough-history) - Basic details of Alexandra's tough history
+2. [Life Events](#life-events) - Set of rolled life events
+  1. [Enemy Adventurer](#enemy-adventurer) - Made an enemy of an adventurer
+
+
 ## Tough History
 
 Alexandra was a happy violinist with a family. Back then, Alexander had a
@@ -54,3 +61,17 @@ Her family and home now buried behind her. She had searched tirelessly for a
 solution, but now questions whether it matters now anymore. Even if she could
 unlock her full potential now, the her world has become so chaotic, perhaps she
 will have to live with what has already happened.
+
+
+## Life Events
+
+A series of life events rolled from the tables available in XGtE page 69.
+Rolled a 1d8 (1) (Alexandra's age 48) to determine number of life events.
+
+
+### Enemy Adventurer
+
+Life Events (40): You made an enemy of an adventurer. Roll a d6 (4).
+An even number indicates you are blameless. Use the supplemental tables
+and work with your DM to determine this hostile character's identity and
+the danger this enemy poses to you.
